@@ -1,6 +1,6 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+> A GitHub App built with probot that celebrates new user activity within your repository.
 
 ## What it does
 
@@ -53,7 +53,11 @@ If you need help using this app, we encourage you to:
 ## Project maintainers
 
 This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
-=======
-# community-starter-kit
+
+---
+
+#### community-starter-kit
+
 Helping Mona
 `DAY8064`
+~[luser](https://2by.me)
